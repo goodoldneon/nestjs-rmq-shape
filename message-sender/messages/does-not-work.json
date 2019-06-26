@@ -1,0 +1,9 @@
+{
+  "type": "foo",
+  "payload": {
+    "foo": {
+      "bar": 100
+    },
+    "baz": "qux"
+  }
+}

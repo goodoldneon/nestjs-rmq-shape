@@ -1,0 +1,12 @@
+{
+  "name": "message-sender",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "inquirer": "^6.4.1"
+  }
+}

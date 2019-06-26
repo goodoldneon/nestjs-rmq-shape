@@ -1,0 +1,11 @@
+{
+  "name": "nestjs-rmq-shape",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start:docker": "cd docker && npm start",
+    "start:nest": "cd nest && npm run start:dev",
+    "start:sender": "cd message-sender && npm start",
+    "stop:docker": "cd docker && npm stop"
+  }
+}
